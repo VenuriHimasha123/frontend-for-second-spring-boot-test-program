@@ -1,4 +1,4 @@
-# Frontend ICET Demo
+# Frontend for second test spring boot program
 
 A simple static frontend demo using HTML and vanilla JavaScript. Ideal for quick prototypes.
 
@@ -8,22 +8,6 @@ A simple static frontend demo using HTML and vanilla JavaScript. Ideal for quick
 - Vanilla JavaScript
 - No build tools required
 
-## Project Structure
-
-.
-├── index.html
-└── assset/
-└── js/
-└── app.js
-
-> Note: Folder name is **assset** . Keep paths consistent.
-
-## Getting Started
-
-### Open locally
-
-- Double-click `index.html`
+ Note: Folder name is **assset** . Keep paths consistent.
 
 
-npm install -g http-server
-http-server . -p 8080
